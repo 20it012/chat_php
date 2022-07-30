@@ -1,0 +1,8 @@
+chat app
+
+first make all page layout using html and css[login,registration,home_user,particular_chat]
+convert html to php
+usinh java script make it movementable like password show,searchbar  with Ajex
+
+
+when we want to send data we will use POST method while receiving data GET will be use.
